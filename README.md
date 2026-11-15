@@ -7,6 +7,26 @@ The app combines curated scientific knowledge (experiments, stories, application
 
 ---
 
+## 📋 Table of Contents
+
+1. [Features](#-features)
+2. [Included Knowledge Base](#-included-knowledge-base)
+3. [Tech Stack](#️-tech-stack)
+4. [Project Structure](#-project-structure)
+5. [Installation & Setup](#️-installation--setup)
+6. [Environment Variables](#-environment-variables)
+7. [Running the App](#-running-the-app)
+8. [Admin Panel](#-admin-panel)
+9. [Using the “Ask Me” Assistant](#-using-the-ask-me-assistant)
+10. [Local Retrieval Highlights](#-local-retrieval-highlights-knowledge_basepy)
+11. [Deployment Notes](#-deployment-notes)
+12. [Safety & Scope Notes](#️-important-safety--scope-notes)
+13. [License & Attribution](#-license--attribution)
+14. [Contributing / Extending](#-contributing--extending)
+15. [Support](#-support)
+
+---
+
 ## ✨ Features
 
 | Section | Description |
