@@ -2,5 +2,3 @@ __pycache__
 .env
 .venv
 uv.lock
-NASA    1.xlsx
-nasa2.xlsx
